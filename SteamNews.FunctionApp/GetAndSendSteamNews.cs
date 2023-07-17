@@ -1,7 +1,5 @@
-using System;
 using Microsoft.Azure.WebJobs;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 
 namespace SteamNews
 {
